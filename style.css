@@ -6,10 +6,6 @@ body {
     flex-direction: column;
 }
 
-div {
-    border: 1px solid #000000;
-}
-
 button {
     color: #3882F6;
 }
@@ -57,7 +53,8 @@ button {
 
 .random-info,
 .ads,
-.footer {
+.footer,
+.info-header {
     background: #e5e7eb9a;
 }
 
