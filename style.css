@@ -23,6 +23,12 @@ button {
     word-wrap: break-word;
   }
 
+.random-info,
+.ads,
+.footer {
+    background: #e5e7eb9a;
+}
+
 .quote {
     background: #E5E7EB;
     color:#3882F6;
@@ -31,14 +37,11 @@ button {
 .descriptions,
 .random-info,
 .quote,
-.ads {
+.ads,
+.info-header {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.info-header{
-    display: flex;
 }
 
 .header,
