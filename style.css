@@ -37,6 +37,10 @@ button {
     justify-content: center;
 }
 
+.info-header{
+    display: flex;
+}
+
 .header,
 .descriptions{
     background: #1F2937;
