@@ -5,8 +5,32 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+button {
+    color: #3882F6;
+}
+
+.quote {
+    color: #E5E7EB;
+    
+}
+
+.descriptions,
+.random-info,
+.quote,
+.ads {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header,
+.descriptions{
+    color: #1F2937;
+}
+
 .header,
 .footer {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
