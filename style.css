@@ -17,6 +17,13 @@ p.descriptions{
     max-width: 200px;
 }
 
+.descriptions-wrapper {
+    padding: 20px;
+    background: #eaeaea;
+    max-width: 400px;
+    margin: 50px auto;
+  }
+
 .quote {
     color: #E5E7EB;
     
