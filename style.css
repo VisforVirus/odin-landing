@@ -25,7 +25,7 @@ button {
 
 .quote {
     background: #E5E7EB;
-    
+    color:#3882F6;
 }
 
 .descriptions,
@@ -40,7 +40,6 @@ button {
 .header,
 .descriptions{
     background: #1F2937;
-    color:#3882F6;
 }
 
 .header,
