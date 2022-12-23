@@ -37,7 +37,8 @@ button {
 }
 
 .descriptions-wrapper,
-.image {
+.image,
+.quote-wrapper {
     padding: 20px;
     max-width: 450px;
     margin: 50px auto;
