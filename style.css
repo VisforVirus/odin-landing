@@ -36,7 +36,7 @@ button {
     color:#000000;
 }
 
-.descriptions-wrapper,
+.descriptions div, /*remove the wrappers, use this, test stuff with this*/
 .image,
 .quote-wrapper {
     padding: 20px;
@@ -54,7 +54,6 @@ button {
 
 .random-info,
 .ads,
-.footer,
 .info-header {
     background: #E5E7EB;
 }
@@ -80,7 +79,8 @@ button {
 }
 
 .header,
-.descriptions{
+.descriptions,
+.footer{
     background: #1F2937;
 }
 
