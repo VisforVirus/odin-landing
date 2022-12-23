@@ -6,24 +6,22 @@ body {
     flex-direction: column;
 }
 
-div {
-    border: 1px solid #000000;  
-}
-
 button {
     color: #3882F6;
 }
 
-div.description-text{
-    word-wrap: break-word;
+p.descriptions{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
 }
 
-.descriptions-wrapper,
-.info {
+.descriptions-wrapper {
     padding: 20px;
-    max-width: 200px;
+    background: #eaeaea;
+    max-width: 400px;
     margin: 50px auto;
-    
   }
 
 .quote {
