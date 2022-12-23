@@ -25,7 +25,7 @@ p.descriptions{
   }
 
 .quote {
-    color: #E5E7EB;
+    background: #E5E7EB;
     
 }
 
@@ -40,7 +40,7 @@ p.descriptions{
 
 .header,
 .descriptions{
-    color: #1F2937;
+    background: #1F2937;
 }
 
 .header,
