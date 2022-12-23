@@ -12,14 +12,12 @@ button {
 
 p.descriptions{
     white-space: nowrap;
-    overflow: hidden;
     text-overflow: ellipsis;
     max-width: 200px;
 }
 
 .descriptions-wrapper {
     padding: 20px;
-    background: #eaeaea;
     max-width: 400px;
     margin: 50px auto;
   }
