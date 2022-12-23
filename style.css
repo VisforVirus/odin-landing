@@ -53,9 +53,12 @@ button {
 }
 
 .random-info,
-.ads,
 .info-header {
     background: #E5E7EB;
+}
+
+.ads {
+    background-color: #3882F6;
 }
 
 .quote {
