@@ -6,6 +6,10 @@ body {
     flex-direction: column;
 }
 
+div {
+    border: 1px solid #000000;
+}
+
 button {
     color: #3882F6;
 }
@@ -17,11 +21,12 @@ p.descriptions{
     max-width: 200px;
 }
 
-.descriptions-wrapper {
+.descriptions-wrapper,
+.image {
     padding: 20px;
-    background: #eaeaea;
-    max-width: 400px;
+    max-width: 200px;
     margin: 50px auto;
+    word-wrap: break-word;
   }
 
 .quote {
@@ -46,5 +51,6 @@ p.descriptions{
 .header,
 .footer {
     display: flex;
+    align-items: center;
     justify-content: space-evenly;
 }
